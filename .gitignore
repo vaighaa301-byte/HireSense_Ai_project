@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
